@@ -1,9 +1,10 @@
 # Coursera.Getting.and.Cleaning.Data-Course-Project
+This script does the following:
 
 1. Merges the training and the test sets to create one data set: The experiment dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data, so, in this step we merge both data resulting in the original dataset.
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement: The signals captured in the experiment were used to estimate variables of the feature vector for each pattern:  
-'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions: 
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
