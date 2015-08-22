@@ -1,6 +1,5 @@
 #loading all the variables that are necessary:
 
-setwd("C:/Cursos/Data Specialization/Getting and Cleanning Data/Course Project/UCI HAR Dataset")
 activity_labels <- read.table("./activity_labels.txt")
 features <- read.table("./features.txt")
 ##from the test data
