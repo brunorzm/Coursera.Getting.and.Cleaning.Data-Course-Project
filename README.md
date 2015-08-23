@@ -28,3 +28,7 @@ Then some parameters, like mean, standart deviation, max, min, etc were calculat
 4. Appropriately labels the data set with descriptive variable names: each activity has a number associated. The script assigns to each number from the table the respective activity.
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+A full description is available at the site where the data was obtained: 
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
