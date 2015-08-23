@@ -1,7 +1,7 @@
 #CodeBook
 Subject: the id of each subject in the experiment
 
-Actvity: the activity tha the signal were colected
+Actvity: the activity related to a respective signal
 
   WALKING (value 1): subject was walking during the test
   
